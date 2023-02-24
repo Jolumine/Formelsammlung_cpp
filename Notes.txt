@@ -1,0 +1,12 @@
+Mathe: 
+
+Geometrie: 
+	- Volumen 
+	- Flächen 
+	- Vektoren 
+
+Analysis: 
+	- Mitternachtsformel 
+	- PQ Formel 
+	- (Binomische Formeln)
+
